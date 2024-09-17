@@ -14,7 +14,7 @@
 - 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el [TecNM].
 - 💡 Apasionado por las **tecnologías ágiles** y el desarrollo **full-stack**.
 - 🛠️ Técnico en **Soporte y Mantenimiento de equipo de cómputo**.
-- ⚡ **Dato curioso**: ¡Amo la pizza, el cine y los deportes de aventura!
+-⚡ **Dato curioso**: ¡Me gusta la pizza <img src="https://img.icons8.com/emoji/20/000000/pizza-emoji.png"/>, la música <img src="https://img.icons8.com/color/20/000000/musical-notes.png"/> y los deportes de aventura <img src="https://img.icons8.com/color/20/000000/mountain.png"/>!
 
 <br>
 
@@ -36,15 +36,12 @@
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/> 
-  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React"/> 
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/> 
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> 
   <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="WordPress"/>
   
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> 
