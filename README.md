@@ -73,6 +73,5 @@
 
 ## 📈 Mi Actividad Reciente:
 
-<div align="center">
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevCrAn&bg_color=0d1117&color=58a6ff&line=00E676&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+*Gráfico de actividad temporalmente no disponible*
+
