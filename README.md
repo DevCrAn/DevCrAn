@@ -14,7 +14,7 @@
 - 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el [TecNM].
 - 💡 Apasionado por las **tecnologías ágiles** y el desarrollo **full-stack**.
 - 🛠️ Técnico en **Soporte y Mantenimiento de equipo de cómputo**.
--⚡ **Dato curioso**: ¡Me gusta la pizza <img src="https://img.icons8.com/emoji/20/000000/pizza-emoji.png"/>, la música <img src="https://img.icons8.com/color/20/000000/musical-notes.png"/> y los deportes de aventura <img src="https://img.icons8.com/color/20/000000/mountain.png"/>!
+- ⚡ **Dato curioso**: ¡Me gusta la pizza <img src="https://img.icons8.com/emoji/20/000000/pizza-emoji.png"/>, la música <img src="https://img.icons8.com/color/20/000000/musical-notes.png"/> y los deportes de aventura <img src="https://img.icons8.com/color/20/000000/mountain.png"/>!
 
 <br>
 
